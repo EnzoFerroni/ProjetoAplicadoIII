@@ -32,6 +32,6 @@ Avaliação: O modelo foi validado quantitativamente usando a métrica Precisão
 
 💾 Base de Dados (Kaggle): [AI-Powered Job Recommendations](https://www.kaggle.com/datasets/samayashar/ai-powered-job-recommendations/data)
 
-📄 Documentação Completa: Leia o PDF na pasta docs/
+📄 Documentação Completa: [Leia o PDF na pasta docs/](docs/ProjetoAplicadoIII.pdf)
 
 🎬 Apresentação do Projeto: [LINK YOUTUBE]
