@@ -34,4 +34,4 @@ Avaliação: O modelo foi validado quantitativamente usando a métrica Precisão
 
 ### 📄 Documentação Completa: [Leia o PDF na pasta docs/](docs/ProjetoAplicadoIII.pdf)
 
-### 🎬 Apresentação do Projeto: [LINK YOUTUBE]
+### 🎬 Apresentação do Projeto: [LINK YOUTUBE](https://www.youtube.com/watch?v=6CZDkbzrX5c)
